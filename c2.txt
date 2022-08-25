@@ -1,0 +1,2 @@
+t1a (a)|(b) , t2bc (a).((a)*) , t34 (((a)|(b))*).((c)|(d))#
+"aaabbcaaaa"
