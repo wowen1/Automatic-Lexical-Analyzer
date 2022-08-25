@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="cse340_proj2" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="cse340_proj2">
+         <Option output="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/cse340_proj2" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/." />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 cse340_proj2" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="cse340_proj2/fast">
+         <Option output="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/cse340_proj2" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/." />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux" />
+            <Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 cse340_proj2/fast" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/gmake -f &quot;/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/inputbuf.cc">
+      </Unit>
+      <Unit filename="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/lexer.cc">
+      </Unit>
+      <Unit filename="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/parser.cc">
+      </Unit>
+      <Unit filename="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/inputbuf.h">
+      </Unit>
+      <Unit filename="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/lexer.h">
+      </Unit>
+      <Unit filename="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/parser.h">
+      </Unit>
+      <Unit filename="/afs/asu.edu/users/w/o/w/wowen1/tmp/tmp.J0JjYeAIS5/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

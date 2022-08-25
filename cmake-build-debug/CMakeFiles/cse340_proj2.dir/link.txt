@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g    CMakeFiles/cse340_proj2.dir/inputbuf.cc.o CMakeFiles/cse340_proj2.dir/lexer.cc.o CMakeFiles/cse340_proj2.dir/parser.cc.o  -o cse340_proj2 -rdynamic 
